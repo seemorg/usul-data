@@ -102,6 +102,66 @@ https://assets.usul.ai/book-content/turath/12081.json
 
 ## Usage Examples
 
+### Accessing Book Content
+
+<details>
+<summary><strong>JavaScript</strong></summary>
+
+```javascript
+const fetch = require('node-fetch');
+const books = require('./books.json');
+
+async function getBookContent(bookId) {
+  // Find the book and its first available version
+  const book = books.find(b => b.id === bookId);
+  if (!book || !book.versions || book.versions.length === 0) return null;
+  
+  const version = book.versions[0];
+  const url = `https://assets.usul.ai/book-content/${version.source}/${version.value}.json`;
+  
+  // Fetch the book content
+  const response = await fetch(url);
+  return await response.json();
+}
+
+// Example: Get content for a specific book
+getBookContent('1379FarajJubran.YawmiyyatAdamWaHawa')
+  .then(content => console.log('Book sections:', content.sections.length));
+```
+</details>
+
+<details>
+<summary><strong>Python</strong></summary>
+
+```python
+import json
+import requests
+
+# Load books from file
+with open('books.json', 'r', encoding='utf-8') as file:
+    books = json.load(file)
+
+def get_book_content(book_id):
+    """Get the content of a specific book"""
+    # Find the book and its first available version
+    book = next((b for b in books if b['id'] == book_id), None)
+    if not book or not book.get('versions') or len(book['versions']) == 0:
+        return None
+    
+    version = book['versions'][0]
+    url = f"https://assets.usul.ai/book-content/{version['source']}/{version['value']}.json"
+    
+    # Fetch the book content
+    response = requests.get(url)
+    return response.json()
+
+# Example: Get content for a specific book
+content = get_book_content('1379FarajJubran.YawmiyyatAdamWaHawa')
+if content:
+    print(f"Book sections: {len(content['sections'])}")
+```
+</details>
+
 ### Finding Authors by Time Period
 
 <details>
