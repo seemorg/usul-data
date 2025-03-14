@@ -1,0 +1,2693 @@
+[
+  {
+    "id": "tafsir",
+    "slug": "tafsir",
+    "transliteration": "al-tafsīr",
+    "extraProperties": {
+      "_airtableReference": "recQSe0mSMbSkkhTe"
+    },
+    "numberOfBooks": 240,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-07T01:17:21.507Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Tafsir (Quranic Exegesis)"
+      },
+      {
+        "locale": "fa",
+        "text": "تفسیر"
+      },
+      {
+        "locale": "ur",
+        "text": "تفسیر"
+      },
+      {
+        "locale": "hi",
+        "text": "व्याख्या"
+      },
+      {
+        "locale": "fr",
+        "text": "Tafsir"
+      },
+      {
+        "locale": "tr",
+        "text": "Tefsir"
+      },
+      {
+        "locale": "es",
+        "text": "Exégesis"
+      },
+      {
+        "locale": "ms",
+        "text": "Tafsiran"
+      },
+      {
+        "locale": "ru",
+        "text": "тафсир"
+      },
+      {
+        "locale": "bn",
+        "text": "তাফসির"
+      },
+      {
+        "locale": "ha",
+        "text": "Tafsiri"
+      },
+      {
+        "locale": "so",
+        "text": "Fasiraadda"
+      },
+      {
+        "locale": "ps",
+        "text": "تفسیر"
+      },
+      {
+        "locale": "ar",
+        "text": "التفسير"
+      }
+    ]
+  },
+  {
+    "id": "creeds-and-sects",
+    "slug": "creeds-and-sects",
+    "transliteration": "al-ʿaqāʾid wa-l-milal",
+    "extraProperties": {
+      "_airtableReference": "recLJfwP9ZaNKEz8k"
+    },
+    "numberOfBooks": 759,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-08T23:35:26.007Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Creeds and Sects"
+      },
+      {
+        "locale": "fa",
+        "text": "عقاید و مذاهب"
+      },
+      {
+        "locale": "ur",
+        "text": "عقائد و مذاہب"
+      },
+      {
+        "locale": "hi",
+        "text": "दर्शनशास्त्र और धर्म"
+      },
+      {
+        "locale": "fr",
+        "text": "Croyances et sectes"
+      },
+      {
+        "locale": "tr",
+        "text": "İnançlar ve Mezhepler"
+      },
+      {
+        "locale": "es",
+        "text": "Doctrinas y sectas"
+      },
+      {
+        "locale": "ms",
+        "text": "Akidah dan Kepercayaan"
+      },
+      {
+        "locale": "ru",
+        "text": "Религии и учения"
+      },
+      {
+        "locale": "bn",
+        "text": "ধর্ম এবং মতবাদ"
+      },
+      {
+        "locale": "ha",
+        "text": "Aƙida da Mazhabobi"
+      },
+      {
+        "locale": "so",
+        "text": "Caqiidada iyo Mad-habada"
+      },
+      {
+        "locale": "ps",
+        "text": "عقائد او مذهبونه"
+      },
+      {
+        "locale": "ar",
+        "text": "العقائد والملل"
+      }
+    ]
+  },
+  {
+    "id": "poetry",
+    "slug": "poetry",
+    "transliteration": "al-shiʿr",
+    "extraProperties": {
+      "_airtableReference": "reccDNkF25f9949X7"
+    },
+    "numberOfBooks": 239,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-08T23:47:41.203Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Poetry"
+      },
+      {
+        "locale": "fa",
+        "text": "شعر"
+      },
+      {
+        "locale": "ur",
+        "text": "شاعری"
+      },
+      {
+        "locale": "hi",
+        "text": "कविता"
+      },
+      {
+        "locale": "fr",
+        "text": "Poésie"
+      },
+      {
+        "locale": "tr",
+        "text": "Şiir"
+      },
+      {
+        "locale": "es",
+        "text": "poesía"
+      },
+      {
+        "locale": "ms",
+        "text": "Puisi"
+      },
+      {
+        "locale": "ru",
+        "text": "поэзия"
+      },
+      {
+        "locale": "bn",
+        "text": "কবিতা"
+      },
+      {
+        "locale": "ha",
+        "text": "waƙa"
+      },
+      {
+        "locale": "so",
+        "text": "gabayo"
+      },
+      {
+        "locale": "ps",
+        "text": "شاعري"
+      },
+      {
+        "locale": "ar",
+        "text": "الشعر"
+      }
+    ]
+  },
+  {
+    "id": "fiqh-al-lugha",
+    "slug": "fiqh-al-lugha",
+    "transliteration": "Fiqh al-Lughah",
+    "extraProperties": {
+      "_airtableReference": "reccNTyfU9xFrcFBt"
+    },
+    "numberOfBooks": 242,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-08T23:47:41.203Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Philology"
+      },
+      {
+        "locale": "fa",
+        "text": "فقه‌اللغه"
+      },
+      {
+        "locale": "ur",
+        "text": "فقہ اللغت"
+      },
+      {
+        "locale": "hi",
+        "text": "भाषाविज्ञान"
+      },
+      {
+        "locale": "fr",
+        "text": "Philologie"
+      },
+      {
+        "locale": "tr",
+        "text": "Dilbilim"
+      },
+      {
+        "locale": "es",
+        "text": "Filología"
+      },
+      {
+        "locale": "ms",
+        "text": "Fekah Bahasa"
+      },
+      {
+        "locale": "ru",
+        "text": "Филология"
+      },
+      {
+        "locale": "bn",
+        "text": "ভাষাতত্ত্ব"
+      },
+      {
+        "locale": "ha",
+        "text": "Ilmin harshe"
+      },
+      {
+        "locale": "so",
+        "text": "Cilmiga Luqadda"
+      },
+      {
+        "locale": "ps",
+        "text": "ژبپوهنه"
+      },
+      {
+        "locale": "ar",
+        "text": "فقه اللغة"
+      }
+    ]
+  },
+  {
+    "id": "blagha",
+    "slug": "blagha",
+    "transliteration": "al-Balāgha",
+    "extraProperties": {
+      "_airtableReference": "recHHgUpBz65Wi9AD"
+    },
+    "numberOfBooks": 367,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-08T23:47:41.203Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Rhetoric"
+      },
+      {
+        "locale": "fa",
+        "text": "بلاغت"
+      },
+      {
+        "locale": "ur",
+        "text": "بلاغت"
+      },
+      {
+        "locale": "hi",
+        "text": "अलंकार"
+      },
+      {
+        "locale": "fr",
+        "text": "Rhétorique"
+      },
+      {
+        "locale": "tr",
+        "text": "Belagat"
+      },
+      {
+        "locale": "es",
+        "text": "Retórica"
+      },
+      {
+        "locale": "ms",
+        "text": "Retorik"
+      },
+      {
+        "locale": "ru",
+        "text": "Риторика"
+      },
+      {
+        "locale": "bn",
+        "text": "বাগ্মিতা"
+      },
+      {
+        "locale": "ha",
+        "text": "Maganar Baka"
+      },
+      {
+        "locale": "so",
+        "text": "Maansada"
+      },
+      {
+        "locale": "ps",
+        "text": "بلاغت"
+      },
+      {
+        "locale": "ar",
+        "text": "البلاغة"
+      }
+    ]
+  },
+  {
+    "id": "hadith",
+    "slug": "hadith",
+    "transliteration": "al-ḥadīth",
+    "extraProperties": {
+      "_airtableReference": "recp39kQGFnIQGlgj"
+    },
+    "numberOfBooks": 1316,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-09T00:10:37.310Z",
+    "nameTranslations": [
+      {
+        "locale": "fa",
+        "text": "حدیث"
+      },
+      {
+        "locale": "ur",
+        "text": "حدیث"
+      },
+      {
+        "locale": "hi",
+        "text": "आधुनिक"
+      },
+      {
+        "locale": "es",
+        "text": "moderno"
+      },
+      {
+        "locale": "ms",
+        "text": "Perbualan"
+      },
+      {
+        "locale": "ru",
+        "text": "Современная литература"
+      },
+      {
+        "locale": "bn",
+        "text": "হাদিস"
+      },
+      {
+        "locale": "ha",
+        "text": "Zantukan zamani"
+      },
+      {
+        "locale": "so",
+        "text": "Hadith"
+      },
+      {
+        "locale": "ps",
+        "text": "معاصر"
+      },
+      {
+        "locale": "ar",
+        "text": "الحديث"
+      },
+      {
+        "locale": "en",
+        "text": "Hadith"
+      },
+      {
+        "locale": "fr",
+        "text": "Hadith"
+      },
+      {
+        "locale": "tr",
+        "text": "Hadith"
+      }
+    ]
+  },
+  {
+    "id": "literature",
+    "slug": "literature",
+    "transliteration": "al-adab",
+    "extraProperties": {
+      "_airtableReference": "recyQm6CGn7npYQ48"
+    },
+    "numberOfBooks": 564,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-09T00:10:37.310Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Literature"
+      },
+      {
+        "locale": "fa",
+        "text": "ادبیات"
+      },
+      {
+        "locale": "ur",
+        "text": "ادب"
+      },
+      {
+        "locale": "hi",
+        "text": "साहित्य"
+      },
+      {
+        "locale": "fr",
+        "text": "Littérature"
+      },
+      {
+        "locale": "tr",
+        "text": "Edebiyat"
+      },
+      {
+        "locale": "es",
+        "text": "Literatura"
+      },
+      {
+        "locale": "ms",
+        "text": "Sastera"
+      },
+      {
+        "locale": "ru",
+        "text": "литература"
+      },
+      {
+        "locale": "bn",
+        "text": "সাহিত্য"
+      },
+      {
+        "locale": "ha",
+        "text": "Adabi"
+      },
+      {
+        "locale": "so",
+        "text": "Suugaan"
+      },
+      {
+        "locale": "ps",
+        "text": "ادب"
+      },
+      {
+        "locale": "ar",
+        "text": "الأدب"
+      }
+    ]
+  },
+  {
+    "id": "biographies-and-generations",
+    "slug": "biographies-and-generations",
+    "transliteration": "al-Tarājim wa-l-Ṭabaqāt",
+    "extraProperties": {
+      "_airtableReference": "recnhDARWZ3r6yLFC"
+    },
+    "numberOfBooks": 665,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-09T00:10:37.310Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Biographies and Classes"
+      },
+      {
+        "locale": "fa",
+        "text": "زندگینامه‌ها و طبقات"
+      },
+      {
+        "locale": "ur",
+        "text": "تراجم و طبقات"
+      },
+      {
+        "locale": "hi",
+        "text": "जीवनी और वर्गीकरण"
+      },
+      {
+        "locale": "fr",
+        "text": "Biographies et classes sociales"
+      },
+      {
+        "locale": "tr",
+        "text": "Tercüme ve Tabakat"
+      },
+      {
+        "locale": "es",
+        "text": "Biografías y estratos"
+      },
+      {
+        "locale": "ms",
+        "text": "Biografi dan Kelas Sosial"
+      },
+      {
+        "locale": "ru",
+        "text": "Биографии и жизнеописания"
+      },
+      {
+        "locale": "bn",
+        "text": "জীবনী ও জীবনীসংক্রান্ত"
+      },
+      {
+        "locale": "ha",
+        "text": "Tarihin Rayuwa da Bayanan Mutane"
+      },
+      {
+        "locale": "so",
+        "text": "Isbarasho iyo Heer"
+      },
+      {
+        "locale": "ps",
+        "text": "ژوندليکونه او طبقات"
+      },
+      {
+        "locale": "ar",
+        "text": "التراجم والطبقات"
+      }
+    ]
+  },
+  {
+    "id": "fatawa",
+    "slug": "fatawa",
+    "transliteration": "al-Fatāwā",
+    "extraProperties": {
+      "_airtableReference": "rechYmUQzSs1FWuyq"
+    },
+    "numberOfBooks": 333,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-14T07:46:10.254Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Fatwas"
+      },
+      {
+        "locale": "fa",
+        "text": "فتواه‌ها"
+      },
+      {
+        "locale": "ur",
+        "text": "فتاوی"
+      },
+      {
+        "locale": "hi",
+        "text": "फतवा"
+      },
+      {
+        "locale": "fr",
+        "text": "Fatwas"
+      },
+      {
+        "locale": "tr",
+        "text": "Fetvalar"
+      },
+      {
+        "locale": "es",
+        "text": "Fatwas"
+      },
+      {
+        "locale": "ms",
+        "text": "Fatwa"
+      },
+      {
+        "locale": "ru",
+        "text": "Фетвы"
+      },
+      {
+        "locale": "bn",
+        "text": "ফতোয়া"
+      },
+      {
+        "locale": "ha",
+        "text": "Fatawowi"
+      },
+      {
+        "locale": "so",
+        "text": "Fatwooyin"
+      },
+      {
+        "locale": "ps",
+        "text": "فتاوی"
+      },
+      {
+        "locale": "ar",
+        "text": "الفتاوى"
+      }
+    ]
+  },
+  {
+    "id": "fiqh-shii",
+    "slug": "fiqh-shii",
+    "transliteration": "al-fiqh al-shīʿī",
+    "extraProperties": {
+      "_airtableReference": "rec2Ovp2njZ1IfOA5"
+    },
+    "numberOfBooks": 964,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-14T07:46:10.254Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Shia Jurisprudence"
+      },
+      {
+        "locale": "fa",
+        "text": "فقه شیعه"
+      },
+      {
+        "locale": "ur",
+        "text": "شیعہ فقہ"
+      },
+      {
+        "locale": "hi",
+        "text": "शिया फिक़्ह"
+      },
+      {
+        "locale": "fr",
+        "text": "Jurisprudence chiite"
+      },
+      {
+        "locale": "tr",
+        "text": "Şii Fıkhı"
+      },
+      {
+        "locale": "es",
+        "text": "Fiqh chií"
+      },
+      {
+        "locale": "ms",
+        "text": "Fikah Syiah"
+      },
+      {
+        "locale": "ru",
+        "text": "Шиитское право"
+      },
+      {
+        "locale": "bn",
+        "text": "শিয়া ফিকহ"
+      },
+      {
+        "locale": "ha",
+        "text": "Fikihu Shia"
+      },
+      {
+        "locale": "so",
+        "text": "Fiqiga Shiicada"
+      },
+      {
+        "locale": "ps",
+        "text": "شعه فقه"
+      },
+      {
+        "locale": "ar",
+        "text": "الفقه الشيعي"
+      }
+    ]
+  },
+  {
+    "id": "fiqh-hanafi",
+    "slug": "fiqh-hanafi",
+    "transliteration": "al-fiqh al-ḥanafī",
+    "extraProperties": {
+      "_airtableReference": "rec5Fn6vtpScfYEjq"
+    },
+    "numberOfBooks": 585,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-04T20:06:21.105Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Hanafi Fiqh"
+      },
+      {
+        "locale": "fa",
+        "text": "فقه حنفی"
+      },
+      {
+        "locale": "ur",
+        "text": "فقہ حنفی"
+      },
+      {
+        "locale": "hi",
+        "text": "हन्फी फिक़्ह"
+      },
+      {
+        "locale": "fr",
+        "text": "Fiqh hanafite"
+      },
+      {
+        "locale": "tr",
+        "text": "Hanefi Fıkhı"
+      },
+      {
+        "locale": "es",
+        "text": "Jurisprudencia Hanafí"
+      },
+      {
+        "locale": "ms",
+        "text": "Fiqh Hanafi"
+      },
+      {
+        "locale": "ru",
+        "text": "Ханафитский фикх"
+      },
+      {
+        "locale": "bn",
+        "text": "হানাফি ফিকহ"
+      },
+      {
+        "locale": "ha",
+        "text": "Fikihu na Hannafi"
+      },
+      {
+        "locale": "so",
+        "text": "Fiqhiga Xanafiyada"
+      },
+      {
+        "locale": "ps",
+        "text": "حنفي فقه"
+      },
+      {
+        "locale": "ar",
+        "text": "الفقه الحنفي"
+      }
+    ]
+  },
+  {
+    "id": "fiqh",
+    "slug": "fiqh",
+    "transliteration": "al-fiqh",
+    "extraProperties": {
+      "_airtableReference": "recqKRnwVXcXIlTeM"
+    },
+    "numberOfBooks": 867,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-14T05:10:10.385Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Jurisprudence"
+      },
+      {
+        "locale": "fa",
+        "text": "فقه"
+      },
+      {
+        "locale": "ur",
+        "text": "فقہ"
+      },
+      {
+        "locale": "hi",
+        "text": "फिक़्ह"
+      },
+      {
+        "locale": "fr",
+        "text": "La jurisprudence"
+      },
+      {
+        "locale": "tr",
+        "text": "Fıkıh"
+      },
+      {
+        "locale": "es",
+        "text": "Jurisprudencia"
+      },
+      {
+        "locale": "ms",
+        "text": "Fikah"
+      },
+      {
+        "locale": "ru",
+        "text": "Фикх"
+      },
+      {
+        "locale": "bn",
+        "text": "ফিকহ"
+      },
+      {
+        "locale": "ha",
+        "text": "Fikihu"
+      },
+      {
+        "locale": "so",
+        "text": "Fiqiga"
+      },
+      {
+        "locale": "ps",
+        "text": "فقه"
+      },
+      {
+        "locale": "ar",
+        "text": "الفقه"
+      }
+    ]
+  },
+  {
+    "id": "geography",
+    "slug": "geography",
+    "transliteration": "al-jughrafīyā",
+    "extraProperties": {
+      "_airtableReference": "recm0EpBzyMwn4Vtc"
+    },
+    "numberOfBooks": 152,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Geography"
+      },
+      {
+        "locale": "fa",
+        "text": "جغرافیا"
+      },
+      {
+        "locale": "ur",
+        "text": "جغرافیہ"
+      },
+      {
+        "locale": "hi",
+        "text": "भूगोल"
+      },
+      {
+        "locale": "fr",
+        "text": "géographie"
+      },
+      {
+        "locale": "tr",
+        "text": "Coğrafya"
+      },
+      {
+        "locale": "es",
+        "text": "geografía"
+      },
+      {
+        "locale": "ms",
+        "text": "Geografi"
+      },
+      {
+        "locale": "ru",
+        "text": "география"
+      },
+      {
+        "locale": "bn",
+        "text": "ভূগোল"
+      },
+      {
+        "locale": "ha",
+        "text": "ilimin ƙasa"
+      },
+      {
+        "locale": "so",
+        "text": "Juquraafi"
+      },
+      {
+        "locale": "ps",
+        "text": "جغرافیه"
+      },
+      {
+        "locale": "ar",
+        "text": "الجغرافيا"
+      }
+    ]
+  },
+  {
+    "id": "language-dictionaries",
+    "slug": "language-dictionaries",
+    "transliteration": "al-maʿājim al-lugha",
+    "extraProperties": {
+      "_airtableReference": "recqdizfqHGVRLaIs"
+    },
+    "numberOfBooks": 175,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Lexicography"
+      },
+      {
+        "locale": "fa",
+        "text": "واژه‌نامه‌ها"
+      },
+      {
+        "locale": "ur",
+        "text": "لغات کی لغت"
+      },
+      {
+        "locale": "hi",
+        "text": "शब्दकोश"
+      },
+      {
+        "locale": "fr",
+        "text": "Lexicographie"
+      },
+      {
+        "locale": "tr",
+        "text": "Dilbilim Sözlükleri"
+      },
+      {
+        "locale": "es",
+        "text": "Lexicografía"
+      },
+      {
+        "locale": "ms",
+        "text": "Kamus Bahasa"
+      },
+      {
+        "locale": "ru",
+        "text": "Словари"
+      },
+      {
+        "locale": "bn",
+        "text": "অভিধানশাস্ত্র"
+      },
+      {
+        "locale": "ha",
+        "text": "Kamusanci"
+      },
+      {
+        "locale": "so",
+        "text": "Qaamuus"
+      },
+      {
+        "locale": "ps",
+        "text": "دو جنسو قاموس"
+      },
+      {
+        "locale": "ar",
+        "text": "المعاجم اللغة"
+      }
+    ]
+  },
+  {
+    "id": "metrics-and-rhymes",
+    "slug": "metrics-and-rhymes",
+    "transliteration": "al-ʿArūḍ wa-l-Qawāfī",
+    "extraProperties": {
+      "_airtableReference": "recxW0uZ5SX9U55Ce"
+    },
+    "numberOfBooks": 20,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Prosody and Rhyme"
+      },
+      {
+        "locale": "fa",
+        "text": "عروض و قافیه"
+      },
+      {
+        "locale": "ur",
+        "text": "عروض اور قوافی"
+      },
+      {
+        "locale": "hi",
+        "text": "छंद और काव्य"
+      },
+      {
+        "locale": "fr",
+        "text": "Versification et rimes"
+      },
+      {
+        "locale": "tr",
+        "text": "Arûz ve Kafiyeler"
+      },
+      {
+        "locale": "es",
+        "text": "Métrica y rima"
+      },
+      {
+        "locale": "ms",
+        "text": "Prosodi dan Puisi"
+      },
+      {
+        "locale": "ru",
+        "text": "Просодия и рифмы"
+      },
+      {
+        "locale": "bn",
+        "text": "ছন্দ ও ছড়া"
+      },
+      {
+        "locale": "ha",
+        "text": "Waka da Bayani"
+      },
+      {
+        "locale": "so",
+        "text": "Miid iyo Qaafiyad"
+      },
+      {
+        "locale": "ps",
+        "text": "عروض او قافیه"
+      },
+      {
+        "locale": "ar",
+        "text": "العروض والقوافي"
+      }
+    ]
+  },
+  {
+    "id": "genealogy-arabic",
+    "slug": "genealogy-arabic",
+    "transliteration": "al-Ansāb",
+    "extraProperties": {
+      "_airtableReference": "recMrefKsszj9v8F4"
+    },
+    "numberOfBooks": 81,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Genealogy"
+      },
+      {
+        "locale": "fa",
+        "text": "تبارشناسی"
+      },
+      {
+        "locale": "ur",
+        "text": "نسب"
+      },
+      {
+        "locale": "hi",
+        "text": "वंशावली"
+      },
+      {
+        "locale": "fr",
+        "text": "Généalogie"
+      },
+      {
+        "locale": "tr",
+        "text": "Şecere"
+      },
+      {
+        "locale": "es",
+        "text": "Genealogía"
+      },
+      {
+        "locale": "ms",
+        "text": "Silsilah"
+      },
+      {
+        "locale": "ru",
+        "text": "Генеалогия"
+      },
+      {
+        "locale": "bn",
+        "text": "বংশতালিকা"
+      },
+      {
+        "locale": "ha",
+        "text": "Tarihin Kabilu"
+      },
+      {
+        "locale": "so",
+        "text": "Nasab"
+      },
+      {
+        "locale": "ps",
+        "text": "نسب نامه"
+      },
+      {
+        "locale": "ar",
+        "text": "الأنساب"
+      }
+    ]
+  },
+  {
+    "id": "sira-nabawiya",
+    "slug": "sira-nabawiya",
+    "transliteration": "al-Sīra al-Nabawiyya",
+    "extraProperties": {
+      "_airtableReference": "recmWUbeNthjkmJbd"
+    },
+    "numberOfBooks": 142,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Prophetic Biography"
+      },
+      {
+        "locale": "fa",
+        "text": "سیره نبوی"
+      },
+      {
+        "locale": "ur",
+        "text": "سیرت النبی"
+      },
+      {
+        "locale": "hi",
+        "text": "पैगंबर की जीवनी"
+      },
+      {
+        "locale": "fr",
+        "text": "Biographie du Prophète"
+      },
+      {
+        "locale": "tr",
+        "text": "Peygamberin Hayatı"
+      },
+      {
+        "locale": "es",
+        "text": "Biografía del Profeta"
+      },
+      {
+        "locale": "ms",
+        "text": "Sirah Nabi"
+      },
+      {
+        "locale": "ru",
+        "text": "Жизнь пророка"
+      },
+      {
+        "locale": "bn",
+        "text": "নবী জীবনী"
+      },
+      {
+        "locale": "ha",
+        "text": "Tarihin Annabi"
+      },
+      {
+        "locale": "so",
+        "text": "Taariikhda Nebiga"
+      },
+      {
+        "locale": "ps",
+        "text": "سيرت"
+      },
+      {
+        "locale": "ar",
+        "text": "السيرة النبوية"
+      }
+    ]
+  },
+  {
+    "id": "ulum-al-hadith",
+    "slug": "ulum-al-hadith",
+    "transliteration": "ʿUlūm al-ḥadīth",
+    "extraProperties": {
+      "_airtableReference": "recoKbFuNtCnGGgtB"
+    },
+    "numberOfBooks": 551,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-05T04:54:15.833Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Hadith Studies"
+      },
+      {
+        "locale": "fa",
+        "text": "علوم حدیث"
+      },
+      {
+        "locale": "ur",
+        "text": "علوم حدیث"
+      },
+      {
+        "locale": "hi",
+        "text": "हदीस विज्ञान"
+      },
+      {
+        "locale": "fr",
+        "text": "Science du hadith"
+      },
+      {
+        "locale": "tr",
+        "text": "Hadis Bilimi"
+      },
+      {
+        "locale": "es",
+        "text": "Ciencia del Hadiz"
+      },
+      {
+        "locale": "ms",
+        "text": "Sains Hadis"
+      },
+      {
+        "locale": "ru",
+        "text": "Хадисоведение"
+      },
+      {
+        "locale": "bn",
+        "text": "হাদিস শাস্ত্র"
+      },
+      {
+        "locale": "ha",
+        "text": "Ilimin Hadisi"
+      },
+      {
+        "locale": "so",
+        "text": "Culuumta Xadiiska"
+      },
+      {
+        "locale": "ps",
+        "text": "د حدیث علوم"
+      },
+      {
+        "locale": "ar",
+        "text": "علوم الحديث"
+      }
+    ]
+  },
+  {
+    "id": "philosophy",
+    "slug": "philosophy",
+    "transliteration": "al-falsafah",
+    "extraProperties": {
+      "_airtableReference": "recUgQuM6NkelJK9c"
+    },
+    "numberOfBooks": 68,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-28T15:36:25.012Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Philosophy"
+      },
+      {
+        "locale": "fa",
+        "text": "فلسفه"
+      },
+      {
+        "locale": "ur",
+        "text": "فلسفہ"
+      },
+      {
+        "locale": "hi",
+        "text": "दर्शनशास्त्र"
+      },
+      {
+        "locale": "fr",
+        "text": "Philosophie"
+      },
+      {
+        "locale": "tr",
+        "text": "Felsefe"
+      },
+      {
+        "locale": "es",
+        "text": "Filosofía"
+      },
+      {
+        "locale": "ms",
+        "text": "Falsafah"
+      },
+      {
+        "locale": "ru",
+        "text": "Философия"
+      },
+      {
+        "locale": "bn",
+        "text": "দর্শন"
+      },
+      {
+        "locale": "ha",
+        "text": "Falsafa"
+      },
+      {
+        "locale": "so",
+        "text": "Falsafad"
+      },
+      {
+        "locale": "ps",
+        "text": "فلسفه"
+      },
+      {
+        "locale": "ar",
+        "text": "الفلسفة"
+      }
+    ]
+  },
+  {
+    "id": "arabic-grammar-and-morphology",
+    "slug": "arabic-grammar-and-morphology",
+    "transliteration": "al-naḥw wa-l-ṣarf",
+    "extraProperties": {
+      "_airtableReference": "recpdsTMP8wJXol6J"
+    },
+    "numberOfBooks": 197,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Grammar and Morphology"
+      },
+      {
+        "locale": "fa",
+        "text": "دستور زبان و صرف"
+      },
+      {
+        "locale": "ur",
+        "text": "نحو و صرف"
+      },
+      {
+        "locale": "hi",
+        "text": "व्याकरण और संरचनात्मक अध्ययन"
+      },
+      {
+        "locale": "fr",
+        "text": "Grammaire et morphologie"
+      },
+      {
+        "locale": "tr",
+        "text": "Sarf ve Nahiv"
+      },
+      {
+        "locale": "es",
+        "text": "Gramática y morfología"
+      },
+      {
+        "locale": "ms",
+        "text": "Tata Bahasa dan Morfologi"
+      },
+      {
+        "locale": "ru",
+        "text": "Грамматика и морфология"
+      },
+      {
+        "locale": "bn",
+        "text": "শব্দতত্ত্ব ও ব্যাকরণ"
+      },
+      {
+        "locale": "ha",
+        "text": "Nahawun da Tsarrafi"
+      },
+      {
+        "locale": "so",
+        "text": "Nahwo iyo Sarfe"
+      },
+      {
+        "locale": "ps",
+        "text": "صرف او نحو"
+      },
+      {
+        "locale": "ar",
+        "text": "النحو والصرف"
+      }
+    ]
+  },
+  {
+    "id": "rudud",
+    "slug": "rudud",
+    "transliteration": "al-Rudūd",
+    "extraProperties": {
+      "_airtableReference": "rec2TGmepxcqixwMj"
+    },
+    "numberOfBooks": 73,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Responses"
+      },
+      {
+        "locale": "fa",
+        "text": "پاسخ‌ها"
+      },
+      {
+        "locale": "ur",
+        "text": "جوابات"
+      },
+      {
+        "locale": "hi",
+        "text": "प्रतिनिधित्व"
+      },
+      {
+        "locale": "fr",
+        "text": "Répliques"
+      },
+      {
+        "locale": "tr",
+        "text": "Karşılıklar"
+      },
+      {
+        "locale": "es",
+        "text": "Respuestas"
+      },
+      {
+        "locale": "ms",
+        "text": "Balas"
+      },
+      {
+        "locale": "ru",
+        "text": "Ответы"
+      },
+      {
+        "locale": "bn",
+        "text": "প্রতিক্রিয়া"
+      },
+      {
+        "locale": "ha",
+        "text": "Martani"
+      },
+      {
+        "locale": "so",
+        "text": "Jawaab"
+      },
+      {
+        "locale": "ps",
+        "text": "عکس العملونه"
+      },
+      {
+        "locale": "ar",
+        "text": "الردود"
+      }
+    ]
+  },
+  {
+    "id": "natural-sciences",
+    "slug": "natural-sciences",
+    "transliteration": "ʿilm al-ṭabīʿiyyāt",
+    "extraProperties": {
+      "_airtableReference": "recnaZnDC1JmDsQin"
+    },
+    "numberOfBooks": 51,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Natural Science"
+      },
+      {
+        "locale": "fa",
+        "text": "علوم طبیعی"
+      },
+      {
+        "locale": "ur",
+        "text": "علم طبیعیات"
+      },
+      {
+        "locale": "hi",
+        "text": "प्रकृतिविज्ञान"
+      },
+      {
+        "locale": "fr",
+        "text": "Sciences naturelles"
+      },
+      {
+        "locale": "tr",
+        "text": "Doğa Bilimleri"
+      },
+      {
+        "locale": "es",
+        "text": "Ciencias Naturales"
+      },
+      {
+        "locale": "ms",
+        "text": "Ilmu Alam"
+      },
+      {
+        "locale": "ru",
+        "text": "Естественные науки"
+      },
+      {
+        "locale": "bn",
+        "text": "প্রাকৃতিক বিজ্ঞান"
+      },
+      {
+        "locale": "ha",
+        "text": "Kimiyyar Halittu"
+      },
+      {
+        "locale": "so",
+        "text": "Cilmiga Dabiiciga ah"
+      },
+      {
+        "locale": "ps",
+        "text": "طبیعیاتو"
+      },
+      {
+        "locale": "ar",
+        "text": "علم الطبيعيات"
+      }
+    ]
+  },
+  {
+    "id": "fiqh-maliki",
+    "slug": "fiqh-maliki",
+    "transliteration": "al-fiqh al-Mālikī",
+    "extraProperties": {
+      "_airtableReference": "rec7ylI9e5p7gDuAo"
+    },
+    "numberOfBooks": 911,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Maliki Jurisprudence"
+      },
+      {
+        "locale": "fa",
+        "text": "فقه مالکی"
+      },
+      {
+        "locale": "ur",
+        "text": "مالکی فقہ"
+      },
+      {
+        "locale": "hi",
+        "text": "मलिकी फ़िक़ह"
+      },
+      {
+        "locale": "fr",
+        "text": "Fiqh malékite"
+      },
+      {
+        "locale": "tr",
+        "text": "Maliki Fıkhı"
+      },
+      {
+        "locale": "es",
+        "text": "Fiqh Maliki"
+      },
+      {
+        "locale": "ms",
+        "text": "Fiqh Maliki"
+      },
+      {
+        "locale": "ru",
+        "text": "Маликитский фикх"
+      },
+      {
+        "locale": "bn",
+        "text": "মালিকি ফিকহ"
+      },
+      {
+        "locale": "ha",
+        "text": "Fiqihu Maliki"
+      },
+      {
+        "locale": "so",
+        "text": "Maaliki"
+      },
+      {
+        "locale": "ps",
+        "text": "مالکي فقه"
+      },
+      {
+        "locale": "ar",
+        "text": "الفقه المالكي"
+      }
+    ]
+  },
+  {
+    "id": "fiqh-zaheri",
+    "slug": "fiqh-zaheri",
+    "transliteration": "al-fiqh al-ẓāhirī",
+    "extraProperties": {
+      "_airtableReference": "recJnr0ylUXhhBzXB"
+    },
+    "numberOfBooks": 26,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Zahiri Jurisprudence"
+      },
+      {
+        "locale": "fa",
+        "text": "فقه ظاهری"
+      },
+      {
+        "locale": "ur",
+        "text": "فقہ ظاہری"
+      },
+      {
+        "locale": "hi",
+        "text": "ज़ाहिरी क़ानून"
+      },
+      {
+        "locale": "fr",
+        "text": "Jurisprudence zâhirite"
+      },
+      {
+        "locale": "tr",
+        "text": "Zahiri Fıkhı"
+      },
+      {
+        "locale": "es",
+        "text": "Fiqh zahir"
+      },
+      {
+        "locale": "ms",
+        "text": "Fiqh Zahiri"
+      },
+      {
+        "locale": "ru",
+        "text": "Захиритская школа фикха"
+      },
+      {
+        "locale": "bn",
+        "text": "যাহিরি ফিকহ"
+      },
+      {
+        "locale": "ha",
+        "text": "Zahiriyya"
+      },
+      {
+        "locale": "so",
+        "text": "Mabaadida bartay"
+      },
+      {
+        "locale": "ps",
+        "text": "ظاهري فقه"
+      },
+      {
+        "locale": "ar",
+        "text": "الفقه الظاهري"
+      }
+    ]
+  },
+  {
+    "id": "other-madhabs",
+    "slug": "other-madhabs",
+    "transliteration": "Madhāhib Ukhrá",
+    "extraProperties": {
+      "_airtableReference": "recRIp03PBIi789Pp"
+    },
+    "numberOfBooks": 26,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Other Religions"
+      },
+      {
+        "locale": "fa",
+        "text": "ادیان دیگر"
+      },
+      {
+        "locale": "ur",
+        "text": "دیگر مذاہب"
+      },
+      {
+        "locale": "hi",
+        "text": "अन्य विधाएं"
+      },
+      {
+        "locale": "fr",
+        "text": "Autres genres"
+      },
+      {
+        "locale": "tr",
+        "text": "Diğer Mezhepler"
+      },
+      {
+        "locale": "es",
+        "text": "Otros géneros"
+      },
+      {
+        "locale": "ms",
+        "text": "Agama Lain"
+      },
+      {
+        "locale": "ru",
+        "text": "Другие жанры"
+      },
+      {
+        "locale": "bn",
+        "text": "অন্যান্য ধর্ম"
+      },
+      {
+        "locale": "ha",
+        "text": "Wasu Masaniyya"
+      },
+      {
+        "locale": "so",
+        "text": "Qaybaha kale"
+      },
+      {
+        "locale": "ps",
+        "text": "بېلابېل مذهبونه"
+      },
+      {
+        "locale": "ar",
+        "text": "مذاهب أخرى"
+      }
+    ]
+  },
+  {
+    "id": "dialectics-and-debate",
+    "slug": "dialectics-and-debate",
+    "transliteration": "ʾIlm al-Jadal wa-al-Munazarah",
+    "extraProperties": {
+      "_airtableReference": "recp6QjO2md87VQhj"
+    },
+    "numberOfBooks": 24,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Dialectics and Debate"
+      },
+      {
+        "locale": "fa",
+        "text": "علم جدل و مناظره"
+      },
+      {
+        "locale": "ur",
+        "text": "علم مناظرہ"
+      },
+      {
+        "locale": "hi",
+        "text": "विवाद और वाद-विवाद विज्ञान"
+      },
+      {
+        "locale": "fr",
+        "text": "Dialectique et Débat"
+      },
+      {
+        "locale": "tr",
+        "text": "Tartışma ve Münazara Bilimi"
+      },
+      {
+        "locale": "es",
+        "text": "Dialéctica y Debate"
+      },
+      {
+        "locale": "ms",
+        "text": "Ilmu Debat dan Dialog"
+      },
+      {
+        "locale": "ru",
+        "text": "Полемика и дискуссия"
+      },
+      {
+        "locale": "bn",
+        "text": "যুক্তিবিদ্যা এবং বিতর্ক"
+      },
+      {
+        "locale": "ha",
+        "text": "Kimiyyar Muhawara da Muqabala"
+      },
+      {
+        "locale": "so",
+        "text": "Cilmiga Dood-wadaagga iyo Muran-celinta"
+      },
+      {
+        "locale": "ps",
+        "text": "د مناظرې او جدل علم"
+      },
+      {
+        "locale": "ar",
+        "text": "علم الجدل والمناظرة"
+      }
+    ]
+  },
+  {
+    "id": "tafsir-ahlam",
+    "slug": "tafsir-ahlam",
+    "transliteration": "Tafsīr al-Aḥlām",
+    "extraProperties": {
+      "_airtableReference": "recicN6vlJ7bSIntn"
+    },
+    "numberOfBooks": 8,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-02-27T08:23:00.056Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Dream Interpretation"
+      },
+      {
+        "locale": "fa",
+        "text": "تعبیر خواب"
+      },
+      {
+        "locale": "ur",
+        "text": "خوابوں کی تعبیر"
+      },
+      {
+        "locale": "hi",
+        "text": "स्वप्न व्याख्या"
+      },
+      {
+        "locale": "fr",
+        "text": "Interprétation des rêves"
+      },
+      {
+        "locale": "tr",
+        "text": "Rüya Tabirleri"
+      },
+      {
+        "locale": "es",
+        "text": "Interpretación de sueños"
+      },
+      {
+        "locale": "ms",
+        "text": "Tafsiran Mimpi"
+      },
+      {
+        "locale": "ru",
+        "text": "Толкование снов"
+      },
+      {
+        "locale": "bn",
+        "text": "স্বপ্ন ব্যাখ্যা"
+      },
+      {
+        "locale": "ha",
+        "text": "Fassarar Mafarki"
+      },
+      {
+        "locale": "so",
+        "text": "Fasirka Riyooyinka"
+      },
+      {
+        "locale": "ps",
+        "text": "د خوبونو تعبیر"
+      },
+      {
+        "locale": "ar",
+        "text": "تفسير الأحلام"
+      }
+    ]
+  },
+  {
+    "id": "book-indices-and-guides",
+    "slug": "book-indices-and-guides",
+    "transliteration": "Fahāris al-Kutub wa-al-Adilla",
+    "extraProperties": {
+      "_airtableReference": "recDST4VmzgsRHsEi"
+    },
+    "numberOfBooks": 79,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-08T18:07:23.013Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Bibliographies and Guides"
+      },
+      {
+        "locale": "fa",
+        "text": "فهرست کتاب‌ها و راهنماها"
+      },
+      {
+        "locale": "ur",
+        "text": "کتب اور رہنماؤں کے فہرست"
+      },
+      {
+        "locale": "hi",
+        "text": "पुस्तक सूचियाँ और गाइड"
+      },
+      {
+        "locale": "fr",
+        "text": "Bibliographies et guides"
+      },
+      {
+        "locale": "tr",
+        "text": "Kitap Rehberleri ve Kataloglar"
+      },
+      {
+        "locale": "es",
+        "text": "Índices y guías"
+      },
+      {
+        "locale": "ms",
+        "text": "Bibliografi dan Panduan"
+      },
+      {
+        "locale": "ru",
+        "text": "Справочники и руководства"
+      },
+      {
+        "locale": "bn",
+        "text": "পুস্তক এবং নির্দেশিকা"
+      },
+      {
+        "locale": "ha",
+        "text": "Littattafan jagora"
+      },
+      {
+        "locale": "so",
+        "text": "Qoraallada iyo Buug-Ceeladaha"
+      },
+      {
+        "locale": "ps",
+        "text": "د کتابونو او لارښودونو فهرستونه"
+      },
+      {
+        "locale": "ar",
+        "text": "فهارس الكتب والأدلة"
+      }
+    ]
+  },
+  {
+    "id": "history",
+    "slug": "history",
+    "transliteration": "al-Tārīkh",
+    "extraProperties": {
+      "_airtableReference": "recKPJQxvBj9bOK3C"
+    },
+    "numberOfBooks": 475,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-08T18:25:12.771Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "History"
+      },
+      {
+        "locale": "fa",
+        "text": "تاریخ"
+      },
+      {
+        "locale": "ur",
+        "text": "تاریخ"
+      },
+      {
+        "locale": "hi",
+        "text": "इतिहास"
+      },
+      {
+        "locale": "fr",
+        "text": "Histoire"
+      },
+      {
+        "locale": "tr",
+        "text": "Tarih"
+      },
+      {
+        "locale": "es",
+        "text": "Historia"
+      },
+      {
+        "locale": "ms",
+        "text": "Sejarah"
+      },
+      {
+        "locale": "ru",
+        "text": "История"
+      },
+      {
+        "locale": "bn",
+        "text": "ইতিহাস"
+      },
+      {
+        "locale": "ha",
+        "text": "Tarihi"
+      },
+      {
+        "locale": "so",
+        "text": "taariikh"
+      },
+      {
+        "locale": "ps",
+        "text": "تاريخ"
+      },
+      {
+        "locale": "ar",
+        "text": "التاريخ"
+      }
+    ]
+  },
+  {
+    "id": "islamic-governance-and-judiciary",
+    "slug": "islamic-governance-and-judiciary",
+    "transliteration": "al-Siyāsah al-Sharʿīyah wa-al-Qaḍāʾ",
+    "extraProperties": {
+      "_airtableReference": "rec7YD2HvsgVR0KRX"
+    },
+    "numberOfBooks": 97,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-08T18:34:22.192Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Public Policy and Judiciary"
+      },
+      {
+        "locale": "fa",
+        "text": "سیاست شرعی و قضا"
+      },
+      {
+        "locale": "ur",
+        "text": "سیاسی شریعت اور عدلیہ"
+      },
+      {
+        "locale": "hi",
+        "text": "राजनीति और न्यायपालिका"
+      },
+      {
+        "locale": "fr",
+        "text": "Politique islamique et justice"
+      },
+      {
+        "locale": "tr",
+        "text": "Siyaset ve Yargı"
+      },
+      {
+        "locale": "es",
+        "text": "Política y judicatura"
+      },
+      {
+        "locale": "ms",
+        "text": "Politik Islam dan Kehakiman"
+      },
+      {
+        "locale": "ru",
+        "text": "Политика ислама и правосудие"
+      },
+      {
+        "locale": "bn",
+        "text": "রাজনীতি ও বিচার"
+      },
+      {
+        "locale": "ha",
+        "text": "Siyasa da Shari'a"
+      },
+      {
+        "locale": "so",
+        "text": "Mabaadi'da Siyaasadda iyo Garsoorka"
+      },
+      {
+        "locale": "ps",
+        "text": "اسلامي سیاست او قضاوت"
+      },
+      {
+        "locale": "ar",
+        "text": "السياسة الشرعية والقضاء"
+      }
+    ]
+  },
+  {
+    "id": "usul-al-fiqh",
+    "slug": "usul-al-fiqh",
+    "transliteration": "Uṣūl al-Fiqh",
+    "extraProperties": {
+      "_airtableReference": "recIFXmnfT9ca6m3L"
+    },
+    "numberOfBooks": 473,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-14T08:02:16.279Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Principles of Islamic Jurisprudence"
+      },
+      {
+        "locale": "fa",
+        "text": "اصول فقه"
+      },
+      {
+        "locale": "ur",
+        "text": "اصول فقہ"
+      },
+      {
+        "locale": "hi",
+        "text": "इस्लामी क़ानूनशास्त्र"
+      },
+      {
+        "locale": "fr",
+        "text": "Usul al-fiqh"
+      },
+      {
+        "locale": "tr",
+        "text": "Fıkıh Usulü"
+      },
+      {
+        "locale": "es",
+        "text": "Usul al-Fiqh"
+      },
+      {
+        "locale": "ms",
+        "text": "Usul Fiqh"
+      },
+      {
+        "locale": "ru",
+        "text": "Усуль аль-фикх"
+      },
+      {
+        "locale": "bn",
+        "text": "ফিকাহ শাস্ত্রের মূলনীতি"
+      },
+      {
+        "locale": "ha",
+        "text": "Usul al-Fiqh"
+      },
+      {
+        "locale": "so",
+        "text": "Usulul Fiqh"
+      },
+      {
+        "locale": "ps",
+        "text": "اصول فقه"
+      },
+      {
+        "locale": "ar",
+        "text": "أصول الفقه"
+      }
+    ]
+  },
+  {
+    "id": "ilm-al-kalam",
+    "slug": "ilm-al-kalam",
+    "transliteration": "ʿilm al-kalām",
+    "extraProperties": {
+      "_airtableReference": "rec38xTHad3T8nV8D"
+    },
+    "numberOfBooks": 14,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-07T15:15:41.909Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Islamic Theology"
+      },
+      {
+        "locale": "fa",
+        "text": "علم کلام"
+      },
+      {
+        "locale": "ur",
+        "text": "علم کلام"
+      },
+      {
+        "locale": "hi",
+        "text": "इल्म-उल-कलाम"
+      },
+      {
+        "locale": "fr",
+        "text": "Théologie"
+      },
+      {
+        "locale": "tr",
+        "text": "Kelam"
+      },
+      {
+        "locale": "es",
+        "text": "Teología islámica"
+      },
+      {
+        "locale": "ms",
+        "text": "Ilmu Kalam"
+      },
+      {
+        "locale": "ru",
+        "text": "Калям"
+      },
+      {
+        "locale": "bn",
+        "text": "কালাম"
+      },
+      {
+        "locale": "ha",
+        "text": "Ilimin Magana"
+      },
+      {
+        "locale": "so",
+        "text": "Cilmul Kalaam"
+      },
+      {
+        "locale": "ps",
+        "text": "علم الكلام"
+      },
+      {
+        "locale": "ar",
+        "text": "علم الكلام"
+      }
+    ]
+  },
+  {
+    "id": "tasawuf",
+    "slug": "tasawuf",
+    "transliteration": "al-taṣawwuf",
+    "extraProperties": {
+      "_airtableReference": "reciA1guvKkOFwPmB"
+    },
+    "numberOfBooks": 427,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-07T17:21:10.408Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Sufism"
+      },
+      {
+        "locale": "fa",
+        "text": "عرفان"
+      },
+      {
+        "locale": "ur",
+        "text": "تصوف"
+      },
+      {
+        "locale": "hi",
+        "text": "सूफ़ी"
+      },
+      {
+        "locale": "fr",
+        "text": "Soufisme"
+      },
+      {
+        "locale": "tr",
+        "text": "Tasavvuf"
+      },
+      {
+        "locale": "es",
+        "text": "Sufismo"
+      },
+      {
+        "locale": "ms",
+        "text": "Tasawuf"
+      },
+      {
+        "locale": "ru",
+        "text": "Суфизм"
+      },
+      {
+        "locale": "bn",
+        "text": "সুফিবাদ"
+      },
+      {
+        "locale": "ha",
+        "text": "Tariqa"
+      },
+      {
+        "locale": "so",
+        "text": "Suufinimo"
+      },
+      {
+        "locale": "ps",
+        "text": "تصوف"
+      },
+      {
+        "locale": "ar",
+        "text": "التصوف"
+      }
+    ]
+  },
+  {
+    "id": "qawaid-fiqhiya",
+    "slug": "qawaid-fiqhiya",
+    "transliteration": "al-qawāʿid al-fiqhīyah",
+    "extraProperties": {
+      "_airtableReference": "rec0jrZcn5SIzIO51"
+    },
+    "numberOfBooks": 191,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-12T08:22:16.068Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Jurisprudential Rules"
+      },
+      {
+        "locale": "fa",
+        "text": "قواعد فقه"
+      },
+      {
+        "locale": "ur",
+        "text": "فقہ کے اصول"
+      },
+      {
+        "locale": "hi",
+        "text": "कानूनी नियम"
+      },
+      {
+        "locale": "fr",
+        "text": "Principes Juridiques (Fiqh)"
+      },
+      {
+        "locale": "tr",
+        "text": "Fıkıh Kuralları"
+      },
+      {
+        "locale": "es",
+        "text": "Principios jurídicos islámicos"
+      },
+      {
+        "locale": "ms",
+        "text": "Kaedah Fiqh"
+      },
+      {
+        "locale": "ru",
+        "text": "Исламская юриспруденция"
+      },
+      {
+        "locale": "bn",
+        "text": "ফিকহের নিয়ম"
+      },
+      {
+        "locale": "ha",
+        "text": "Ka'idodin Fiqhu"
+      },
+      {
+        "locale": "so",
+        "text": "Qawaaniid Fiqi"
+      },
+      {
+        "locale": "ps",
+        "text": "فقهي قواعد"
+      },
+      {
+        "locale": "ar",
+        "text": "القواعد الفقهية"
+      }
+    ]
+  },
+  {
+    "id": "logic",
+    "slug": "logic",
+    "transliteration": "al-Manṭiq",
+    "extraProperties": {
+      "_airtableReference": "recAZNaVyyXDeUkWq"
+    },
+    "numberOfBooks": 43,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-12T09:33:31.692Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Logic"
+      },
+      {
+        "locale": "fa",
+        "text": "منطق"
+      },
+      {
+        "locale": "ur",
+        "text": "منطق"
+      },
+      {
+        "locale": "hi",
+        "text": "तर्कशास्त्र"
+      },
+      {
+        "locale": "fr",
+        "text": "Logique"
+      },
+      {
+        "locale": "tr",
+        "text": "Mantık"
+      },
+      {
+        "locale": "es",
+        "text": "Lógica"
+      },
+      {
+        "locale": "ms",
+        "text": "Logik"
+      },
+      {
+        "locale": "ru",
+        "text": "Логика"
+      },
+      {
+        "locale": "bn",
+        "text": "তর্কশাস্ত্র"
+      },
+      {
+        "locale": "ha",
+        "text": "Mantiki"
+      },
+      {
+        "locale": "so",
+        "text": "Mantiq"
+      },
+      {
+        "locale": "ps",
+        "text": "منطق"
+      },
+      {
+        "locale": "ar",
+        "text": "المنطق"
+      }
+    ]
+  },
+  {
+    "id": "fiqh-shafi",
+    "slug": "fiqh-shafi",
+    "transliteration": "al-fiqh al-shāfiʿī",
+    "extraProperties": {
+      "_airtableReference": "rec59HosVKi2zoXon"
+    },
+    "numberOfBooks": 512,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-12T09:35:49.962Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Shafi'i Jurisprudence"
+      },
+      {
+        "locale": "fa",
+        "text": "فقه شافعی"
+      },
+      {
+        "locale": "ur",
+        "text": "فقہ شافعی"
+      },
+      {
+        "locale": "hi",
+        "text": "शाफ़ई फिक़्ह"
+      },
+      {
+        "locale": "fr",
+        "text": "Fiqh chaféite"
+      },
+      {
+        "locale": "tr",
+        "text": "Şafii Fıkhı"
+      },
+      {
+        "locale": "es",
+        "text": "Fiqh Shafi'i"
+      },
+      {
+        "locale": "ms",
+        "text": "Fiqh Shafie"
+      },
+      {
+        "locale": "ru",
+        "text": "Шафиитская юриспруденция"
+      },
+      {
+        "locale": "bn",
+        "text": "শাফেয়ী ফিকহ"
+      },
+      {
+        "locale": "ha",
+        "text": "Fiqihu Shafi'i"
+      },
+      {
+        "locale": "so",
+        "text": "Fiqiga Shaaficiga"
+      },
+      {
+        "locale": "ps",
+        "text": "فقه شافعي"
+      },
+      {
+        "locale": "ar",
+        "text": "الفقه الشافعي"
+      }
+    ]
+  },
+  {
+    "id": "quranic-sciences",
+    "slug": "quranic-sciences",
+    "transliteration": "ʿUlūm al-Qurʾān",
+    "extraProperties": {
+      "_airtableReference": "recNdTs4KLnLqLNfo"
+    },
+    "numberOfBooks": 314,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-12T09:36:43.926Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Quranic Sciences"
+      },
+      {
+        "locale": "fa",
+        "text": "علوم قرآن"
+      },
+      {
+        "locale": "ur",
+        "text": "علوم القرآن"
+      },
+      {
+        "locale": "hi",
+        "text": "कुरआन विज्ञान"
+      },
+      {
+        "locale": "fr",
+        "text": "Sciences du Coran"
+      },
+      {
+        "locale": "tr",
+        "text": "Kuran Bilimleri"
+      },
+      {
+        "locale": "es",
+        "text": "Ciencias del Corán"
+      },
+      {
+        "locale": "ms",
+        "text": "Ilmu Al-Quran"
+      },
+      {
+        "locale": "ru",
+        "text": "Корановедение"
+      },
+      {
+        "locale": "bn",
+        "text": "কুরআনিক বিজ্ঞান"
+      },
+      {
+        "locale": "ha",
+        "text": "Ilmin Alkur’ani"
+      },
+      {
+        "locale": "so",
+        "text": "Culuumta Qur'aanka"
+      },
+      {
+        "locale": "ps",
+        "text": "علوم القرآن"
+      },
+      {
+        "locale": "ar",
+        "text": "علوم القرآن"
+      }
+    ]
+  },
+  {
+    "id": "astronomy",
+    "slug": "astronomy",
+    "transliteration": "ʿilm al-falak",
+    "extraProperties": {
+      "_airtableReference": "rec353eZcNak9l1bY"
+    },
+    "numberOfBooks": 17,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-13T08:20:37.275Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Astronomy"
+      },
+      {
+        "locale": "fa",
+        "text": "نجوم"
+      },
+      {
+        "locale": "ur",
+        "text": "فلکیات"
+      },
+      {
+        "locale": "hi",
+        "text": "खगोल विज्ञान"
+      },
+      {
+        "locale": "fr",
+        "text": "Astronomie"
+      },
+      {
+        "locale": "tr",
+        "text": "Astronomi"
+      },
+      {
+        "locale": "es",
+        "text": "astronomía"
+      },
+      {
+        "locale": "ms",
+        "text": "Astronomi"
+      },
+      {
+        "locale": "ru",
+        "text": "Астрономия"
+      },
+      {
+        "locale": "bn",
+        "text": "জ্যোতির্বিজ্ঞান"
+      },
+      {
+        "locale": "ha",
+        "text": "Ilmin taurari"
+      },
+      {
+        "locale": "so",
+        "text": "Cilmiga xiddigiska"
+      },
+      {
+        "locale": "ps",
+        "text": "ستورو پیژندنه"
+      },
+      {
+        "locale": "ar",
+        "text": "علم الفلك"
+      }
+    ]
+  },
+  {
+    "id": "fiqh-hanbali",
+    "slug": "fiqh-hanbali",
+    "transliteration": "al-fiqh al-ḥanbalī",
+    "extraProperties": {
+      "_airtableReference": "rec1O35wXRT0Odi50"
+    },
+    "numberOfBooks": 211,
+    "createdAt": "2024-10-20T12:51:22.426Z",
+    "updatedAt": "2025-03-08T13:04:30.777Z",
+    "nameTranslations": [
+      {
+        "locale": "en",
+        "text": "Hanbali Jurisprudence"
+      },
+      {
+        "locale": "fa",
+        "text": "فقه حنبلی"
+      },
+      {
+        "locale": "ur",
+        "text": "فقہ حنبلی"
+      },
+      {
+        "locale": "hi",
+        "text": "हनबली न्यायशास्त्र"
+      },
+      {
+        "locale": "fr",
+        "text": "Fiqh hanbalite"
+      },
+      {
+        "locale": "tr",
+        "text": "Hanbeli Fıkhı"
+      },
+      {
+        "locale": "es",
+        "text": "Jurisprudencia hanbalí"
+      },
+      {
+        "locale": "ms",
+        "text": "Fiqh Hanbali"
+      },
+      {
+        "locale": "ru",
+        "text": "Ханбалитский фикх"
+      },
+      {
+        "locale": "bn",
+        "text": "হানাফি ফিকহ"
+      },
+      {
+        "locale": "ha",
+        "text": "Fiƙhun Hambali"
+      },
+      {
+        "locale": "so",
+        "text": "Fiqiga Xanbali"
+      },
+      {
+        "locale": "ps",
+        "text": "حنبلي فقه"
+      },
+      {
+        "locale": "ar",
+        "text": "الفقه الحنبلي"
+      }
+    ]
+  }
+]
