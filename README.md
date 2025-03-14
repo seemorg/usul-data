@@ -344,6 +344,6 @@ This dataset is available under the MIT License. You are free to use, modify, an
 
 - This data is maintained by the [Usul.ai](https://usul.ai) team
 - The OpenITI project ([https://openiti.org/](https://openiti.org/)) has provided the foundation for many of the classical texts included in this dataset
-- Turath.io and the Shamela digital library have contributed significantly to the Arabic textual content
+- [Turath.io](https://app.turath.io/) and the Shamela digital library have contributed significantly to the Arabic textual content
 - Special thanks to all the scholars, translators, and contributors who have helped build this comprehensive dataset
 - Built with appreciation for the rich tradition of Islamic scholarship spanning centuries and continents
